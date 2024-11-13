@@ -7,7 +7,6 @@
 🌱 &nbsp;I’m expanding my expertise in areas like Artificial Intelligence, Systems Design, and Cloud Architecture, and always eager to tackle new technical challenges.\
 ✍️ &nbsp;In my free time, I enjoy learning and exploring new frameworks and technologies through platforms like Platzi and experimenting with personal projects.\
 💬 &nbsp;Feel free to reach out if you'd like to discuss tech or collaborate on projects!\
-📄 &nbsp;Please check out my [Portfolio](#) for more on my work and skills.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/oscarfr96/oscarfr96/master/assets/Night-Coding.gif" align="right"/>
