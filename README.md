@@ -1,20 +1,43 @@
 # Hey there! 👋 I'm Óscar
 
-## About Me
-💡 Software Developer with strong full-stack experience, specializing in scalable solutions  
-🎓 Computer Science student & Senior Developer in EdTech  
-🌱 Expanding expertise in AI, Systems Design, and Cloud Architecture  
-✍️ Always learning through Platzi and personal projects  
-💬 Open to tech discussions and collaborations
+Software Engineer passionate about building scalable systems, clean architectures, and practical AI solutions.
 
-## Tech Stack
+---
 
-**Frontend:** React, Angular, JavaScript, TypeScript  
-**Backend:** .NET, C#, Node.js, Python  
-**Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
-**Tools:** Git, Docker, Azure, Jenkins  
+## 🚀 About Me
 
-## GitHub Analytics
+💻 Senior Full-Stack Developer in the EdTech industry  
+🎓 Computer Science student focused on Systems Architecture & Distributed Systems  
+🧠 Strong interest in AI, Machine Learning, and modern software design  
+🏗️ Building microservices, APIs, and cloud-native solutions  
+⚡ I “vibe-code” small apps and tools to automate workflows and make life easier — both professionally and personally  
+📚 Continuous learner (Platzi, personal labs, hands-on experimentation)  
+🤝 Open to collaboration, deep tech discussions, and ambitious projects  
+
+I enjoy turning complex problems into structured, maintainable solutions — and constantly refining how I think about software.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+React · JavaScript · TypeScript · Next.js · Tailwind  
+
+### Backend
+.NET · C# · ASP.NET Core · Node.js · Python  
+
+### Architecture & DevOps
+REST APIs · Microservices · Docker · Kubernetes · Azure · CI/CD (Azure DevOps, Jenkins)
+
+### Databases
+MySQL · SQL Server · MongoDB · Firebase · PostgreSQL 
+
+### 🤖 AI & Automation
+LLM Integration · Prompt Engineering · Claude Code · n8n · MCP (Model Context Protocol) · Workflow Automation · AI Agents
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/oscarfr96">
@@ -23,6 +46,10 @@
 </a>
 </p>
 
-## Connect
+---
 
-[Portfolio](https://oscar-fraile-portfolio.vercel.app/) • [LinkedIn](https://linkedin.com/in/óscar-fraile-martín/) • [Email](mailto:oscar.fm.96@gmail.com)
+## 🌐 Connect With Me
+
+🔗 Portfolio: https://oscar-fraile-portfolio.vercel.app/  
+💼 LinkedIn: https://linkedin.com/in/óscar-fraile-martín/  
+📩 Email: oscar.fm.96@gmail.com
