@@ -1,39 +1,26 @@
-# Hey there! 👋 I'm Óscar
+# Hey, I'm Óscar 👋
 
-Software Engineer passionate about building scalable systems, clean architectures, and practical AI solutions.
+**Full-Stack Engineer · AI-native builder.** I turn ideas into real products and ship them — from API to infra to UI.
 
----
-
-## 🚀 About Me
-
-💻 Senior Full-Stack Developer in the EdTech industry  
-🎓 Computer Science student focused on Systems Architecture & Distributed Systems  
-🧠 Strong interest in AI, Machine Learning, and modern software design  
-🏗️ Building microservices, APIs, and cloud-native solutions  
-⚡ I “vibe-code” small apps and tools to automate workflows and make life easier — both professionally and personally  
-📚 Continuous learner (Platzi, personal labs, hands-on experimentation)  
-🤝 Open to collaboration, deep tech discussions, and ambitious projects  
-
-I enjoy turning complex problems into structured, maintainable solutions — and constantly refining how I think about software.
-
----
+Agentic pipelines, MCP, RAG, and Claude Code agents are woven into all my workflows.
 
 ## 🛠 Tech Stack
 
-### Frontend
-React · JavaScript · TypeScript · Next.js · Tailwind  
+|  |  |
+|---|---|
+| **Frontend** | React · TypeScript · Next.js · Tailwind |
+| **Backend** | .NET · C# · ASP.NET Core · Node.js · Python (FastAPI) |
+| **Architecture & DevOps** | Microservices · Hexagonal/Clean · DDD · CQRS · Docker · Kubernetes · Azure · CI/CD |
+| **Databases & Caching** | PostgreSQL · SQL Server · MySQL · MongoDB · Redis |
+| **AI & Automation** | AI Agents · MCP · RAG · LLM Integration · Claude Code · n8n |
 
-### Backend
-.NET · C# · ASP.NET Core · Node.js · Python  
+Endlessly curious, product-minded, always shipping. Let's build something great together!
 
-### Architecture & DevOps
-REST APIs · Microservices · Docker · Kubernetes · Azure · CI/CD (Azure DevOps, Jenkins)
+## 🌱 Currently
 
-### Databases
-MySQL · SQL Server · MongoDB · Firebase · PostgreSQL 
+Going deeper into systems architecture, distributed systems, and AI agents — always learning, always shipping.
 
-### 🤖 AI & Automation
-LLM Integration · Prompt Engineering · Claude Code · n8n · MCP (Model Context Protocol) · Workflow Automation · AI Agents
+📫 Let's talk: oscar.fm.96@gmail.com
 
 ---
 
