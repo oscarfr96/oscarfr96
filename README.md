@@ -1,6 +1,6 @@
 # Hey, I'm Óscar 👋
 
-**Full-Stack Engineer · AI-native builder.** I turn ideas into real products and ship them — from API to infra to UI.
+**Software Engineer · AI-native builder.** I turn ideas into real products and ship them — from API to infra to UI.
 
 Agentic pipelines, MCP, RAG, and Claude Code agents are woven into all my workflows.
 
