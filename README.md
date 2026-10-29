@@ -4,14 +4,6 @@
 
 I'm a software engineer who enjoys working on the backend, figuring out how the pieces fit together, and turning ideas into working products. I also care about thoughtful design and making those products intuitive to use. Lately, I've been building tools with AI.
 
-## 💻 What I work on
-
-At **Educaria**, I work on **Alexia**, an EdTech platform for schools and universities in Spain and Latin America.
-
-- **From monolith to microservices:** contributing to the transition from .NET Framework 4.8 to distributed services with .NET Core and Entity Framework Core, applying Hexagonal Architecture, Clean Architecture, SOLID, DDD and CQRS. Full stack development with React and TypeScript, Identity Server and Redis, plus CI/CD with Azure DevOps, Docker, Kubernetes and Rancher. Quality backed by xUnit, integration tests and API/load-testing scenarios with k6.
-- **AI-assisted development:** using Claude Code, MCP and shared skills, with Spec-Driven Development to guide implementation and review through clear requirements and acceptance criteria.
-- **Applied AI & RAG:** developing a chatbot with Python and FastAPI for teachers and students, supported by knowledge of chunking, embeddings, metadata, reranking and grounding. Familiar with LangChain and LangGraph for agent orchestration, query rewriting and context management, balancing response quality, latency and cost.
-
 ## 🛠 Tech Stack
 
 | | |
