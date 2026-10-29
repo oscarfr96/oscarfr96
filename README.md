@@ -1,26 +1,31 @@
 # Hey, I'm Óscar 👋
 
-**Software Engineer · AI-native builder.** I turn ideas into real products and ship them — from API to infra to UI.
+**Full Stack Engineer · Madrid, Spain.**
 
-Agentic pipelines, MCP, RAG, and Claude Code agents are woven into all my workflows.
+I'm a software engineer who enjoys working on the backend, figuring out how the pieces fit together, and turning ideas into working products. I also care about thoughtful design and making those products intuitive to use. Lately, I've been building tools with AI.
+
+## 💻 What I work on
+
+At **Educaria**, I work on **Alexia**, an EdTech platform for schools and universities in Spain and Latin America.
+
+- **From monolith to microservices:** contributing to the transition from .NET Framework 4.8 to distributed services with .NET Core and Entity Framework Core, applying Hexagonal Architecture, Clean Architecture, SOLID, DDD and CQRS. Full stack development with React and TypeScript, Identity Server and Redis, plus CI/CD with Azure DevOps, Docker, Kubernetes and Rancher. Quality backed by xUnit, integration tests and API/load-testing scenarios with k6.
+- **AI-assisted development:** using Claude Code, MCP and shared skills, with Spec-Driven Development to guide implementation and review through clear requirements and acceptance criteria.
+- **Applied AI & RAG:** developing a chatbot with Python and FastAPI for teachers and students, supported by knowledge of chunking, embeddings, metadata, reranking and grounding. Familiar with LangChain and LangGraph for agent orchestration, query rewriting and context management, balancing response quality, latency and cost.
 
 ## 🛠 Tech Stack
 
-|  |  |
+| | |
 |---|---|
-| **Frontend** | React · TypeScript · Next.js · Tailwind |
-| **Backend** | .NET · C# · ASP.NET Core · Node.js · Python (FastAPI) |
-| **Architecture & DevOps** | Microservices · Hexagonal/Clean · DDD · CQRS · Docker · Kubernetes · Azure · CI/CD |
-| **Databases & Caching** | PostgreSQL · SQL Server · MySQL · MongoDB · Redis |
-| **AI & Automation** | AI Agents · MCP · RAG · LLM Integration · Claude Code · n8n |
-
-Endlessly curious, product-minded, always shipping. Let's build something great together!
+| **Frontend** | React · TypeScript · Angular · Ionic · JavaScript · Tailwind CSS |
+| **Backend** | C# · .NET · Entity Framework Core · Python · FastAPI · SQLAlchemy · Identity Server · Node.js · OData · GraphQL |
+| **Architecture & DevOps** | Microservices · Hexagonal Architecture · Clean Architecture · SOLID · DDD · CQRS · Docker · Kubernetes · Rancher · CI/CD · Azure DevOps · GitHub Actions · Azure · Google Cloud · Vercel |
+| **Databases & Caching** | SQL Server · PostgreSQL · Redis · Firestore · MongoDB |
+| **AI & Automation** | Claude Code · MCP · Spec-Driven Development · RAG · LangChain · LangGraph · GitHub Copilot · Prompt Engineering · AI Agents |
+| **Testing & Quality** | xUnit · Moq · k6 · BDD / Gherkin · SonarQube |
 
 ## 🌱 Currently
 
-Going deeper into systems architecture, distributed systems, and AI agents — always learning, always shipping.
-
-📫 Let's talk: oscar.fm.96@gmail.com
+Going deeper into distributed systems and AI agents, with a focus on retrieval quality, context management and maintainable software.
 
 ---
 
@@ -37,6 +42,6 @@ Going deeper into systems architecture, distributed systems, and AI agents — a
 
 ## 🌐 Connect With Me
 
-🔗 Portfolio: https://oscar-fraile-portfolio.vercel.app/  
-💼 LinkedIn: https://linkedin.com/in/óscar-fraile-martín/  
-📩 Email: oscar.fm.96@gmail.com
+🔗 [Portfolio](https://oscar-fraile-portfolio.vercel.app/)  
+💼 [LinkedIn](https://linkedin.com/in/óscar-fraile-martín/)  
+📩 [oscar.fm.96@gmail.com](mailto:oscar.fm.96@gmail.com)
